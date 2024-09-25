@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastvajii&label=Profile%20views&color=0e75b6&style=flat" alt="srivastvajii" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **JavaScript , Reactjs**
 
 - 📫 How to reach me **shahil.srivastava8340@gmail.com**
